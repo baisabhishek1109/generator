@@ -1,0 +1,18 @@
+{
+  "name": "pufpgtest",
+  "version": "1.1.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek <baisabhishek64@gmail.com> (https://google.com)",
+  "license": "ISC",
+  "bin": {
+    "pufpgtest": "index.js"
+  },
+  "dependencies": {
+    "mv": "^2.1.1",
+    "ncp": "^2.0.0"
+  }
+}
